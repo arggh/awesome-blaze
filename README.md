@@ -15,18 +15,18 @@
 # Table of Contents
 - [Table of Contents](#table-of-contents)
 - [Resources](#resources)
-                - [Official Resources](#official-resources)
-                - [Jobs](#jobs)
-                - [Community](#community)
-                - [Tutorials](#tutorials)
+    - [Official Resources](#official-resources)
+    - [Jobs](#jobs)
+    - [Community](#community)
+    - [Tutorials](#tutorials)
 - [Projects using Blaze](#projects-using-blaze)
-                - [Open Source](#open-source)
-                - [Commercial](#commercial)
+    - [Open Source](#open-source)
+    - [Commercial](#commercial)
 - [Blaze Packages](#blaze-packages)
-                - [Components](#components)
-                - [Routing](#routing)
-                - [Libraries](#libraries)
-                - [SSR](#ssr)
+    - [Components](#components)
+    - [Routing](#routing)
+    - [Libraries](#libraries)
+    - [SSR](#ssr)
 - [Contributions](#contributions)
 - [License](#license)
 
@@ -47,7 +47,7 @@
 ### Community
 
 - [Meteor Forums](https://forums.meteor.com/c/blaze)
-- [Slack Channel](blazejs.slack.com)
+- [Slack Channel](https://blazejs.slack.com)
 
 ### Tutorials
 - [Meteor Blaze Tutorial](https://www.meteor.com/tutorials/blaze/creating-an-app)
