@@ -15,18 +15,18 @@
 # Table of Contents
 - [Table of Contents](#table-of-contents)
 - [Resources](#resources)
-    - [Official Resources](#official-resources)
-    - [Jobs](#jobs)
-    - [Community](#community)
-    - [Tutorials](#tutorials)
+        - [Official Resources](#official-resources)
+        - [Jobs](#jobs)
+        - [Community](#community)
+        - [Tutorials](#tutorials)
 - [Projects using Blaze](#projects-using-blaze)
-    - [Open Source](#open-source)
-    - [Commercial](#commercial)
+        - [Open Source](#open-source)
+        - [Commercial](#commercial)
 - [Blaze Packages](#blaze-packages)
-    - [Components](#components)
-    - [Routing](#routing)
-    - [Libraries](#libraries)
-    - [SSR](#ssr)
+        - [Components](#components)
+        - [Routing](#routing)
+        - [Libraries](#libraries)
+        - [SSR](#ssr)
 - [Contributions](#contributions)
 - [License](#license)
 
@@ -72,6 +72,7 @@
   - [arggh:teleport](https://github.com/arggh/blaze-teleport) - Render templates anywhere in the DOM. ![Size: Tiny](https://img.shields.io/badge/size-tiny-blue.svg)
   - [aldeed:autoform](https://github.com/aldeed/meteor-autoform) - UI components and helpers to easily create basic forms with automatic insert and update events, and automatic reactive validation. ![Code quality: Golden](https://img.shields.io/badge/code%20quality-golden-yellow.svg)
   - [dispatch:scrollview](https://github.com/DispatchMe/meteor-scrollview) - A high performance infinite scrollview for meteor. ![Not maintained](https://img.shields.io/badge/Maintained%3F-no-red.svg)
+  - [znewsham:dynamic-table](https://bitbucket.org/znewsham/meteor-dynamic-tables) - Flexible datatables for large collections in Meteor
 
 ### Routing
 - [ostrio:flow-router-extra](https://github.com/VeliovGroup/flow-router) - Carefully extended flow-router package. ![Code quality: Golden](https://img.shields.io/badge/code%20quality-golden-yellow.svg) 
