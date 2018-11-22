@@ -84,6 +84,29 @@
 - [aldeed:template-extension](https://github.com/aldeed/meteor-template-extension) - Replace already defined templates, inherit helpers and events from other templates.
 - [dburles:google-maps](https://github.com/dburles/meteor-google-maps) - Meteor package for the Google Maps Javascript API v3. ![Not maintained](https://img.shields.io/badge/Maintained%3F-no-red.svg)
 
+### Forms
+
+-   [aldeed:autoform](https://github.com/aldeed/meteor-autoform/) - Provides UI components and helpers to easily create basic forms with automatic insert and update events, and automatic reactive validation. ![Code quality: Golden](https://img.shields.io/badge/code%20quality-golden-yellow.svg)
+    -   #### Extensions  
+    
+        - [aldeed:autoform-bs-datepicker](https://github.com/aldeed/meteor-autoform-bs-datepicker/) - Provides a single custom input type, "bootstrap-datepicker", which renders an input using the [bootstrap-datepicker](https://github.com/uxsolutions/bootstrap-datepicker) plugin. ![Code quality: Golden](https://img.shields.io/badge/code%20quality-golden-yellow.svg)
+        - [aldeed:autoform-select2](https://github.com/aldeed/meteor-autoform-select2/) - Provides a single custom input type, "select2", which renders an input using the [select2](https://select2.github.io/) plugin. ![Code quality: Golden](https://img.shields.io/badge/code%20quality-golden-yellow.svg)
+        - [mpowaga:autoform-summernote](https://github.com/mpowaga/meteor-autoform-summernote/) - Adds a WYSIWYG editor to AutoForm (Continued via [aniskhan001:autoform-summernote](https://github.com/aniskhan001/meteor-autoform-summernote/)). ![Not maintained](https://img.shields.io/badge/Maintained%3F-no-red.svg)
+        - [newnectar:meteor-autoform-select-country-flags](https://github.com/NewNectarMedia/meteor-autoform-select-country-flags/) - Simple select for countries using selectize. ![Size: Tiny](https://img.shields.io/badge/size-tiny-blue.svg)
+        - [ostrio:autoform-files](https://github.com/VeliovGroup/meteor-autoform-file) - Upload and manage files with support for many backends, such as collectionFS, GridFS or Amazon S3. ![Code quality: Golden](https://img.shields.io/badge/code%20quality-golden-yellow.svg)
+        - [muqube:autoform-nouislider](https://github.com/muqube/meteor-autoform-nouislider) - Provies a customizable [noUiSlider](https://github.com/leongersen/noUiSlider/) input type.
+        - [forwarder:autoform-wizard](https://github.com/forwarder/meteor-wizard/) - Create wizard-like multi step components.
+        - [jkuester:autoform-bpmn](https://github.com/jankapunkt/meteor-autoform-bpmn) - Adds the [bpmn.io](https://bpmn.io/) BPMN modeler as input type.
+      
+    -   #### Themes
+    
+        - [mozfet:autoform-materialize](https://github.com/mozfet/meteor-autoform-materialize/) - [Materialize-css](http://materializecss.com/) styled forms for AutoForm. ![Code quality: Golden](https://img.shields.io/badge/code%20quality-golden-yellow.svg)
+        - [imajus:autoform-bootstrap4](https://github.com/imajus/autoform-bootstrap4) - A Bootstrap 4 theme for all builtin AutoForm components and inputs.
+      
+-   [templates:forms](https://github.com/jonjamz/forms) - Build production-ready, reactive forms in minutes. Even complex workflows can be achieved with just a few lines of code. ![Not maintained](https://img.shields.io/badge/Maintained%3F-no-red.svg)
+
+
+
 ### SSR
 - [meteorhacks:ssr](https://github.com/meteorhacks/meteor-ssr) - Server Side Rendering for Meteor. ![Not maintained](https://img.shields.io/badge/Maintained%3F-no-red.svg)
 
